@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Memories](https://github.com/Tanmayvaity/Memories)
 
-- 🌱 I’m currently learning **Zig**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmayvaity](https://github.com/Tanmayvaity)
 
 - 💬 Ask me about **Anything Android Related**
