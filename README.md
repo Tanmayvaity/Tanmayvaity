@@ -6,3 +6,5 @@ Hello,
 ➤ Read my blog: [Website](https://itstanmayvaity.bearblog.dev)<br>
 ➤ Connect with me: [Twitter/X](https://twitter.com/itstanmayvaity) · [Linkedin](www.linkedin.com/in/tanmay-vaity)<br>
 ➤ You can email me at : tanmayvaity314@gmail.com
+➤ Resume : https://drive.google.com/file/d/1WWIeSEaMGAsivxgbEL8navVUfn-BeleU/view?usp=sharing
+
